@@ -1,6 +1,9 @@
 
 hello atguigu! hello git! 2222
+<<<<<<< HEAD
 
+=======
+>>>>>>> hot-fix
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
